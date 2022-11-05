@@ -6,7 +6,7 @@ const userInput = document.getElementById('guessing');
 const message = document.getElementById('message');
 const checkBtn = document.getElementById('check');
 const main = document.querySelector('main');
-
+//hjruigjrjgvituobitohbuvfhfi
 function CheckNum(){
     const userGuess= Number(userInput.value);
 
